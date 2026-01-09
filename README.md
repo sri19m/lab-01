@@ -2,12 +2,13 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Sri Harshith Motukuri`
+- **CCID:** `<motukuri>`
 
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
+youtube and W3schools
 
 ## Verbal Collaboration
 
